@@ -1,1 +1,2 @@
-# calc-to-hitung
+# Calc to hitung
+Mulai berhitung dengan caramu
